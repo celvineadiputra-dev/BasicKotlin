@@ -1,17 +1,10 @@
 fun main() {
-    val idProduct : Long = 98_765_432_10L
-    val hargaProduct : Double = 3_499_990.50
-    val beratProduct : Float = 0.15F
-    val jumlahStok : UInt = 250u
-    val jumlahTerjual : Int = 1843
-    val kodeKategori : Byte = 12
-    val tahunRilis : Short = 2025
+    // Cetak NPM kamu (dengan baris baru)
+    println("2428250030")
 
-    println(idProduct)
-    println(hargaProduct)
-    println(beratProduct)
-    println(jumlahStok)
-    println(jumlahTerjual)
-    println(kodeKategori)
-    println(tahunRilis)
+    // Cetak text "Hallo, " (Tanpa baris baru)
+    print("Hallo, ")
+
+    // Cetak Nama Lengkap Kamu (Tanpa baris baru)
+    print("Nama lengkap")
 }
