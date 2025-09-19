@@ -7,5 +7,5 @@ fun main() {
         println(newFinalExam)
     }
 
-    println(newFinalExam) // Kotlin: Unresolved reference 'newFinalExam'
+//    println(newFinalExam) // Kotlin: Unresolved reference 'newFinalExam'
 }
