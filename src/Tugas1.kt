@@ -1,7 +1,7 @@
 fun main() {
     println("Nama Pemain : ")
     val namaPemain: String = readln()
-    var kesehatanPemain: Byte = 10
+    var kesehatanPemain: Byte = 100
     var punyaKunciEmas: Boolean = false
     var jumlahPotion: Int = 2
     var sedangBermain: Boolean = true
